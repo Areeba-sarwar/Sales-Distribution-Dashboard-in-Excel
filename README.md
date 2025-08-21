@@ -62,5 +62,3 @@ Open the Dashboard sheet.
 
 Use slicers and filters to explore the data.
 
-## 🔹Dashboard
-![Dashboard Overview](C:\Users\Dell\Desktop\Technical Courses\Navttc Courses\Power BI Course\Excel\Excel Dashboard - Black\Dashboard image.PNG)
