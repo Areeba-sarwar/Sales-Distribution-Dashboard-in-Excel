@@ -1,9 +1,9 @@
 # Interactive Excel Sales Distribution Dashboard for Regional and Customer Insights (created using MS Excel)
-Overview
+## Overview
 
 This project contains an interactive Excel dashboard designed to analyze and visualize sales distribution data. The dashboard leverages pivot tables, charts, and slicers to make raw sales data more meaningful and insightful.
 
-##🔹 Features
+Features
 
 Interactive dashboard with slicers for filtering data by region, product, customer, and time.
 
